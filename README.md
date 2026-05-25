@@ -54,6 +54,8 @@ assignment-3/
 └── tests/
     ├── __init__.py
     └── test_api.py         # automated API tests
+├── assignment_requirements/
+│   ├── README.md
 ```
 
 ---
@@ -63,7 +65,7 @@ assignment-3/
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/christyhui/mtcars-fastapi-demo
 cd assignment-3
 ```
 
