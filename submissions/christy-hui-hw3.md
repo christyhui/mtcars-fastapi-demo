@@ -1,4 +1,4 @@
-# Assignment 3 - Chris Hui
+# Assignment 3 - Christy Hui
 
 ## Assignment Title
 MTCARS FastAPI Deployment
