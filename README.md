@@ -55,7 +55,7 @@ assignment-3/
     ├── __init__.py
     └── test_api.py         # automated API tests
 ├── assignment_requirements/
-│   ├── README.md
+│   ├── README.md           # original asignment readme
 ```
 
 ---
