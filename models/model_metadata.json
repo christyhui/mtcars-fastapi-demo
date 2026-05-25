@@ -1,0 +1,19 @@
+{
+  "predictors": [
+    "wt",
+    "hp"
+  ],
+  "response": "mpg",
+  "coefficients": {
+    "wt": -3.5881761666906167,
+    "hp": -2.0960125574818913
+  },
+  "intercept": 20.168,
+  "metrics": {
+    "r2": 0.788,
+    "mae": 2.2426,
+    "rmse": 2.9112,
+    "train_size": 25,
+    "test_size": 7
+  }
+}

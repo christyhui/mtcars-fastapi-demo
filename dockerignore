@@ -1,0 +1,30 @@
+# Version control
+.git
+.gitignore
+
+# Python
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Tests
+tests/
+
+# Dev tools
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
