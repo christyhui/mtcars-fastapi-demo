@@ -4,7 +4,7 @@
 MTCARS FastAPI Deployment
 
 ## Standalone Repository
-[https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
+[https://github.com/christyhui/mtcars-fastapi-demo](https://github.com/christyhui/mtcars-fastapi-demo)
 
 ## Deployed API
 [https://mtcars-fastapi-881882179978.us-central1.run.app](https://mtcars-fastapi-881882179978.us-central1.run.app)
